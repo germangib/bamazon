@@ -1,3 +1,11 @@
+/* ---------------------------
+    Name:       bamazonCustomer.js
+    Developer:  German Garcia
+    Date of last update: May 3, 2019
+
+    Purpose: Connect to MySQL database and perform db operations on bamazon_db.
+*/
+
 var mysql = require("mysql");
 var inquirer = require("inquirer");
 
